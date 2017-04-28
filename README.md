@@ -2,7 +2,7 @@
 
 ## Talk
 Speaker: [Federico Nanni](https://federiconanni.com/)
-MZES, Mannheim, Nov 16 2016
+MZES, Mannheim, March 29 2017
 
 ## Abstract
 Political text scaling aims to linearly order parties and politicians across political dimensions (e.g., left-to-right ideology) based on textual content (e.g., politician speeches or party manifestos). Existing models, such as Wordscores and Wordfish, scale texts based on relative word usage; by doing so, they do not take into consideration topical information and cannot be used for cross-lingual analyses. In our talk, we present our efforts toward developing a topic-based and cross-lingual political text scaling approach.
