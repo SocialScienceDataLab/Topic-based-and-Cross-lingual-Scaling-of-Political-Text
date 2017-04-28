@@ -3,5 +3,5 @@ Political text scaling aims to linearly order parties and politicians across pol
 First we introduce our initial work, TopFish, a multi­level computational method that integrates topic detection and political scaling and shows its applicability for temporal aspect analyses of political campaigns (pre-primary elections, primary elections, and general elections). Next, we present a new text scaling approach that leverages semantic representations of text and is suitable for cross-lingual political text scaling.  We also propose a simple and straightforward setting for quantitative evaluation of political text scaling
 
 +## Slides
-+Available [here]
++Available [here] (https://github.com/SocialScienceDataLab/Topic-based-and-Cross-lingual-Scaling-of-Political-Text/blob/master/Topic-Based%20and%20Cross-Lingual%20Scaling%20of%20Political%20Text.pdf)
 +
